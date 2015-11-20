@@ -8,5 +8,5 @@ $( document ).ready(function() {
 
 
 $(document).ready(function(){
-    $( 'h2' ).last().html( '<h2>I'm Sylvia Pinegar, and I'm learning jQuery</h2>' ); 
+    $( 'h2' ).last().html( '<h2>I\'m Sylvia Pinegar, and I\'m learning jQuery</h2>' ); 
 });
